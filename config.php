@@ -2,7 +2,7 @@
 
 return [
     'database' => [
-        'name' => 'teste',
+        'name' => 'aulaDB',
         'username' => 'root',
         'password' => '',
         'conection' => 'mysql:host=localhost',
